@@ -5,6 +5,7 @@ module.exports = {
   router: {
     middleware: 'check-auth'
   },
+  mode: 'spa',
   /*
   ** Headers of the page
   */
